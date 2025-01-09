@@ -25,7 +25,7 @@ RAG leverages Meta Llama 3 (8B parameters) on GPU and Hugging Face API models on
 1. **Clone the Repository**:
 
    ```bash
-   [git clone https://github.com/DherandarReddy/RAGPrj]
+   git clone https://github.com/DherandarReddy/RAGPrj
    cd RAG
    ```
 
@@ -67,18 +67,3 @@ To run the application with GPU support, you can use the following Colab link:
 - **logs/**: Log files.
 - **Dockerfile**: Docker setup for containerized deployment.
 
-## Contributing
-
-We welcome contributions! Please fork the repository, create a new branch, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-If you have any questions or need further assistance, please open an issue on the GitHub repository.
-
----
-
-Happy Coding! 🚀
