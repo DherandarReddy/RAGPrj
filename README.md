@@ -43,7 +43,7 @@ RAG leverages Meta Llama 3 (8B parameters) on GPU and Hugging Face API models on
 ## Usage
 
 To run the application with GPU support, you can use the following Colab link:
-[Run on Colab]([https://colab.research.google.com/drive/1Xgxrw3msyJZrwqJWuEipINv4k7yN2sTE?usp=sharing](https://colab.research.google.com/drive/1xAsvqijHaGq0CI8fom1LaJn0RpHgu3jX))
+[Run on Colab](https://colab.research.google.com/drive/1Xgxrw3msyJZrwqJWuEipINv4k7yN2sTE?usp=sharing](https://colab.research.google.com/drive/1xAsvqijHaGq0CI8fom1LaJn0RpHgu3jX)
 
 ### Example Commands
 
