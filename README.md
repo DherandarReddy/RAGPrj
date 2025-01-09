@@ -25,7 +25,7 @@ RAG leverages Meta Llama 3 (8B parameters) on GPU and Hugging Face API models on
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/SirajuddinShaik/RAG.git
+   [git clone https://github.com/DherandarReddy/RAGPrj]
    cd RAG
    ```
 
